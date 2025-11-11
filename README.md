@@ -9,4 +9,4 @@ Coming soon.
 
 ## UX Journal
 
-[Journal 1: New Visitor Sign Up](journal/journal1.md)
+[Journal 1: New Visitor Sign Up](journal1)
