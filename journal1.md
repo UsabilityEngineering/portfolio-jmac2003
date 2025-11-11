@@ -1,6 +1,6 @@
 **By Jake McMahon – November 10, 2025**
 
-![Home page prototype](../images/crm-home.png)
+![Home page prototype](images/crm-home.png)
 *Figure 1: The home page of our CRM prototype.*
 
 ---
@@ -24,7 +24,7 @@ The big title **“Manage Your Clients Smarter”** quickly tells me what the si
 The buttons like **Get Started** and **Sign Up** stand out and clearly show what to do next.  
 This shows good **affordance**, meaning the buttons look clickable and invite action.
 
-![About page prototype](../images/crm-about.png) 
+![About page prototype](images/crm-about.png) 
 *Figure 2: The About page describes what the CRM does.*
 
 ---
@@ -37,7 +37,7 @@ That’s called **information scent**, which means the design gives clues that g
 ---
 
 ### 3. Sign In Page
-![Login page prototype](../images/crm-login.png)
+![Login page prototype](images/crm-login.png)
 *Figure 3: The login form for returning users.*
 
 Clicking **Sign In** shows a short form asking for an email and password.  
@@ -48,7 +48,7 @@ This part fits a **heuristic evaluation** idea — meaning it follows a good usa
 ---
 
 ### 4. Sign Up Page
-![Sign up page prototype](../images/crm-signup.png)  
+![Sign up page prototype](images/crm-signup.png)  
 *Figure 4: The sign-up form for new users.*
 
 The **Sign Up** page lets users choose if they are a **Client** or a **Business Owner**.  
