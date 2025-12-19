@@ -27,4 +27,32 @@ management. Some confusion occurred when modifying client settings, indicating
 a need for clearer labeling and system feedback. Overall, the test validated
 the core layout while identifying opportunities for refinement.
 
+## Full Report
+
+### Methods
+This study used a formative usability evaluation with a moderated think-aloud
+protocol. Tasks were designed to reflect realistic CRM workflows, allowing
+observation of navigation clarity, task efficiency, and user expectations.
+
+Each task evaluated a different UX component, including learnability,
+findability, and system feedback.
+
+### Findings
+Participants completed most tasks successfully with minimal assistance.
+Quantitative ratings indicated high perceived ease of use, while qualitative
+feedback highlighted confusion around settings-related actions.
+
+### Conclusions
+**Recommended Improvements**
+- Add confirmation feedback after modifying client settings
+- Improve labeling clarity for notification controls
+
+**Affirmed Design Decisions**
+- Dashboard layout and navigation structure
+- Lead creation workflow
+
+### Caveats
+This study was conducted with a small participant sample as a result of this, most of our users lacked industry specific knowledge on terminology that would've allowed them to finish task faster and have an overall greater satisfaction with the protocol.
+
+
 
